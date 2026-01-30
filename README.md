@@ -52,3 +52,5 @@
     ```bash
     nohup python main.py &
     
+### 方式三：脚本运行
+   运行`run.bat`
